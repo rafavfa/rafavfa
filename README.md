@@ -2,7 +2,7 @@
   
 #
 
-<p align="center">I am a Systems Analysis and Development student at UNINASSAU, passionate about technology and innovation. I am currently deepening my knowledge in Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
+<p align="center">Systems Analysis and Development student at UNINASSAU College, passionate about technology and innovation. I am currently deepening my knowledge in Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
   
 #
 
