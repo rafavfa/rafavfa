@@ -2,8 +2,7 @@
   
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Uninassau. Atualmente estudo Java, Spring e SQL.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">I am a Systems Analysis and Development student at UNINASSAU, passionate about technology and innovation. I am currently deepening my knowledge in Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
   
 #
 
