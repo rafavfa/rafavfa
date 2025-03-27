@@ -1,4 +1,10 @@
 ## Welcome to my profile!
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Uninassau. Atualmente estudo Java, Spring e SQL.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
@@ -10,8 +16,12 @@
   </a>
 </div>
 
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafavfa/rafavfa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafavfa/rafavfa/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
