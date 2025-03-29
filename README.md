@@ -1,10 +1,10 @@
-<h1>Welcome to my profile!</h1>
+<h2>Welcome to my profile!</h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color:FFF)](mailto:havook93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color:FFF)](https://www.linkedin.com/in/rafavfa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/rafaelvictor.exe/)
 
-<h2>My name is Rafael Victor</h2>
+<h3>My name is Rafael Victor</h3>
 
 Bachelor in Product Design from UFPB, with experience in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. During my work as a Graphic Designer, I participated in the development of visual identities and materials for campaigns and projects, improving my skills in creating impactful and strategic visual solutions. 
 
