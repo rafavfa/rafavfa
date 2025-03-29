@@ -4,17 +4,14 @@
   </a>
 </div>
 
-<p align="center">Bachelor in Product Design from UFPB, with experience in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. During my work as a Graphic Designer, I participated in the development of visual identities and materials for campaigns and projects, improving my skills in creating impactful and strategic visual solutions. 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color:FFF)](mailto:havook93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color:FFF)](https://www.linkedin.com/in/rafavfa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/rafaelvictor.exe/)
+
+Bachelor in Product Design from UFPB, with experience in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. During my work as a Graphic Designer, I participated in the development of visual identities and materials for campaigns and projects, improving my skills in creating impactful and strategic visual solutions. 
 
 Software Development student at UNINASSAU College, passionate about technology and innovation. Currently, my focus is on Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
 
-#
-  
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:havook93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafavfa/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rafaelvictor.exe/)
 
 <div align="left">
   
