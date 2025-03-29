@@ -4,7 +4,11 @@
   </a>
 </div>
 
-<p align="center">My name is Rafael Victor, a Software Development student at UNINASSAU College, passionate about technology and innovation. Currently, my focus is on Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
+<p align="center">Bachelor in Product Design from UFPB, with experience in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. During my work as a Graphic Designer, I participated in the development of visual identities and materials for campaigns and projects, improving my skills in creating impactful and strategic visual solutions. 
+
+Software Development student at UNINASSAU College, passionate about technology and innovation. Currently, my focus is on Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
+
+#
   
 <h3 align="left">Connect with me!</h3>
 
