@@ -1,6 +1,5 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=header" alt="top"/>
+
 
 <h2>Welcome to my profile!</h2>
 
@@ -27,13 +26,13 @@ Software Development student at UNINASSAU College, passionate about technology a
   </a>
 </p>
 
-<div align="center">
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavfa&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-</div>
+<br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width="40%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavfa&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
 
 <div align="center"> 
   <picture align="center">
