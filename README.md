@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 </div>
 
 <h2>Welcome to my profile!</h2>
@@ -32,7 +32,7 @@ Software Development student at UNINASSAU College, passionate about technology a
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 </div>
 
 <div align="center"> 
