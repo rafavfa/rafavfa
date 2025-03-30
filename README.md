@@ -15,7 +15,6 @@ Bachelor in Product Design from UFPB, with experience in Project Methodologies, 
 Software Development student at UNINASSAU College, passionate about technology and innovation. Currently, my focus is on Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💻%20Software_Developer-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌍%20Country:_Brazil-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎂%20Age:_31-black?style=for-the-badge" />
 </div>
