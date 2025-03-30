@@ -17,7 +17,6 @@ Software Development student at UNINASSAU College, passionate about technology a
   <img src="https://img.shields.io/badge/🌍%20Country:_Brazil-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎂%20Age:_31-black?style=for-the-badge" />
 </div>
-
 <br>
 
 <p align="center">
@@ -25,7 +24,6 @@ Software Development student at UNINASSAU College, passionate about technology a
     <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,js,html,css,dart,flutter,idea,vscode,git,ai" />
   </a>
 </p>
-
 <br>
 
 <div align="center">
