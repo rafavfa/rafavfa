@@ -19,11 +19,33 @@ Software Development student at UNINASSAU College, passionate about technology a
 </div>
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,js,html,css,dart,flutter,idea,vscode,git,ai" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="intellij logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ai" height="32" alt="adobeillustrator logo"  />
+</div>
 <br>
 
 <div align="center">
