@@ -33,19 +33,17 @@ Software Development student at UNINASSAU College, passionate about technology a
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
 
+<div align="center">
+<h4>Profile Views:</h4>
+</div>  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafavfa/count.svg?"  />
+</div>
+
 <div align="center"> 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafavfa/rafavfa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafavfa/rafavfa/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafavfa/rafavfa/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-<br>
-
-<div align="center">
-<h4>Profile Views:</h4>
-</div>  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rafavfa/count.svg?"  />
 </div>
