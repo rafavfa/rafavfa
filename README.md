@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=000000&section=header" alt="top"/>
 
-
-<h2>🧑🏻‍💻 My name is Rafael Victor</h2>
+<h2>My name is Rafael Victor 🧑🏻‍💻</h2>
 
 <div align="left">
 <img src="https://img.shields.io/badge/%20Software Developer-black?style=for-the-badge" />
@@ -10,15 +9,14 @@
 <img src="https://img.shields.io/badge/%20SQL-black?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/%20Backend-black?style=for-the-badge" />    
 </div>
-
 <br>
-
 
 Bachelor in Product Design from UFPB, with experience in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. During my work as a Graphic Designer, I participated in the development of visual identities and materials for campaigns and projects, improving my skills in creating impactful and strategic visual solutions. 
 
 Software Development student at UNINASSAU College, passionate about technology and innovation. Currently, my focus is on Java, Spring and SQL, always seeking to update myself and face new challenges. My goal is to continually learn and apply this knowledge in the development of efficient and creative solutions.
 
 <div align="left">
+<h4>Contact with me</h4>
   
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/rafaelvictor.exe/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color:FFF)](https://www.linkedin.com/in/rafavfa/)
