@@ -3,25 +3,15 @@
 <h2>My name is Rafael Victor 🧑🏻‍💻</h2>
 
 <div align="left">
-<img src="https://img.shields.io/badge/%20Software Developer-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%20Java-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%20Spring Boot-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%20SQL-black?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/%20Backend-black?style=for-the-badge" />    
-</div>
-<br>
-
-Graduated in Product Design from UFPB (Federal University of Paraíba), with expertise in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. As a Graphic Designer, I contributed to the development of visual identities and marketing materials for campaigns and projects, improving my ability to create strategic and impactful visual solutions.
-
-Currently studying Software Development at UNINASSAU (Maurício de Nassau University Center), I am passionate about technology and innovation. My focus is Backend, Java, Spring Boot, SQL, and I am constantly updating my knowledge to take on new challenges. My goal is to continually learn and apply my skills to develop efficient, scalable and creative solutions.
-
-<div align="left">
-<h4>Contact with me</h4>
   
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/rafaelvictor.exe/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color:FFF)](https://www.linkedin.com/in/rafavfa/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:FFF)](mailto:havook93@gmail.com)
 </div>
+
+Graduated in Product Design from UFPB (Federal University of Paraíba), with expertise in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. As a Graphic Designer, I contributed to the development of visual identities and marketing materials for campaigns and projects, improving my ability to create strategic and impactful visual solutions.
+
+Currently studying Software Development at UNINASSAU (Maurício de Nassau University Center), I am passionate about technology and innovation. My focus is Backend, Java, Spring Boot, SQL, and I am constantly updating my knowledge to take on new challenges. My goal is to continually learn and apply my skills to develop efficient, scalable and creative solutions.
 
 ---
 
