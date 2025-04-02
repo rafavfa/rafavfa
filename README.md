@@ -11,7 +11,7 @@
 
 Graduated in Product Design from UFPB (Federal University of Paraíba), with expertise in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. As a Graphic Designer, I contributed to the development of visual identities and marketing materials for campaigns and projects, improving my ability to create strategic and impactful visual solutions.
 
-Currently studying Software Development at UNINASSAU (Maurício de Nassau University Center), I am passionate about technology and innovation. My focus is Backend, Java, Spring Boot, SQL, and I am constantly updating my knowledge to take on new challenges. My goal is to continually learn and apply my skills to develop efficient, scalable and creative solutions.
+Currently studying Software Development at UNINASSAU (Maurício de Nassau University), I am passionate about technology and innovation. My focus is Backend, Java, Spring Boot, SQL, and I am constantly updating my knowledge to take on new challenges. My goal is to continually learn and apply my skills to develop efficient, scalable and creative solutions.
 
 ---
 
