@@ -9,9 +9,11 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:FFF)](mailto:havook93@gmail.com)
 </div>
 
-Graduated in Product Design from UFPB (Federal University of Paraíba), with expertise in Project Methodologies, Visual Identity, Layout, Photography, 3D Modeling and Image Editing. As a Graphic Designer, I contributed to the development of visual identities and marketing materials for campaigns and projects, improving my ability to create strategic and impactful visual solutions.
+Desenvolvedor Backend em formação, com foco em Java, Spring Boot e SQL, apaixonado por tecnologia e inovação. Atualmente cursando Análise e Desenvolvimento de Sistemas (UNINASSAU), busco aplicar e expandir meus conhecimentos em desenvolvimento de software, criando soluções escaláveis, eficientes e seguras.
 
-Currently studying Software Development at UNINASSAU (Maurício de Nassau University), I am passionate about technology and innovation. My focus is Backend, Java, Spring Boot, SQL, and I am constantly updating my knowledge to take on new challenges. My goal is to continually learn and apply my skills to develop efficient, scalable and creative solutions.
+Tenho sólida base em programação orientada a objetos, bancos de dados relacionais e APIs REST, além de certificações em Java e JavaScript/TypeScript.
+
+Graduado em Design de Produto, trago como diferencial habilidades de criatividade, organização e visão estratégica, que potencializam minha atuação em projetos de TI. Meu objetivo é consolidar a carreira como desenvolvedor backend, contribuindo para equipes ágeis e projetos de alto impacto tecnológico.
 
 ---
 
