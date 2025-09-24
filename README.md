@@ -18,45 +18,45 @@ My educational training in Product Design gives me a strategic perspective on pr
 <h4>Languages and Tools</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="32" alt="angularjs logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="intellij logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32" alt="gitlab logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ai" height="32" alt="adobeillustrator logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo" />
-  <img width="5" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="32" alt="sketch logo" />
 </div>
 
