@@ -9,11 +9,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:FFF)](mailto:havook93@gmail.com)
 </div>
 
-Desenvolvedor Backend em formação, com foco em Java, Spring Boot e SQL, apaixonado por tecnologia e inovação. Atualmente cursando Análise e Desenvolvimento de Sistemas (UNINASSAU), busco aplicar e expandir meus conhecimentos em desenvolvimento de software, criando soluções escaláveis, eficientes e seguras.
+Backend developer with solid experience in Java, Spring Boot, and SQL. Currently pursuing a degree in Systems Analysis and Development, I am eager to apply my knowledge to build RESTful APIs and integrate systems, with a focus on creating scalable, efficient, and secure solutions.
 
-Tenho sólida base em programação orientada a objetos, bancos de dados relacionais e APIs REST, além de certificações em Java e JavaScript/TypeScript.
-
-Graduado em Design de Produto, trago como diferencial habilidades de criatividade, organização e visão estratégica, que potencializam minha atuação em projetos de TI. Meu objetivo é consolidar a carreira como desenvolvedor backend, contribuindo para equipes ágeis e projetos de alto impacto tecnológico.
+My educational training in Product Design gives me a strategic perspective on problem-solving, which complements my passion for technology. My goal is to solidify my career as a developer, contributing to agile teams and high-impact technology projects where I can continuously apply and enhance my technical skills.
 
 ---
 
