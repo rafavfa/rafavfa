@@ -57,7 +57,6 @@ My educational training in Product Design gives me a strategic perspective on pr
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo" />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="32" alt="sketch logo" />
 </div>
 
 ---
