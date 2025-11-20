@@ -9,9 +9,11 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:FFF)](mailto:havook93@gmail.com)
 </div>
 
-Backend developer with solid experience in Java, Spring Boot, and SQL. Currently pursuing a degree in Systems Analysis and Development, I am eager to apply my knowledge to build RESTful APIs and integrate systems, with a focus on creating scalable, efficient, and secure solutions.
+Fullstack Software Developer focused on Java, Spring Boot, SQL, and Docker, combined with solid experience in UI/UX Design. My background in Product Design and my history as a graphic designer enhance my ability to create clear, intuitive, and user-centered solutions.
 
-My educational training in Product Design gives me a strategic perspective on problem-solving, which complements my passion for technology. My goal is to solidify my career as a developer, contributing to agile teams and high-impact technology projects where I can continuously apply and enhance my technical skills.
+I work on the development of a digital academic platform, performing the functions of Requirements Analyst and Screen Designer (UX/UI), conducting functional requirements gathering, flow modeling, prototyping, and creating efficient interfaces aligned with user needs and system architecture.
+
+In parallel, I develop automations using n8n and Docker, creating workflows that optimize routines, control rework, and increase operational scalability. I am driven by continuous learning and the integration between technology, design, and automation.
 
 ---
 
