@@ -16,7 +16,7 @@ I work on the development of a digital academic platform, performing the functio
 In parallel, I develop automations using n8n and Docker, creating workflows that optimize routines, control rework, and increase operational scalability. I am driven by continuous learning and the integration between technology, design, and automation.
 
 ---
-
+### Tecnologias e Linguagens
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,py,spring,docker,figma,ai,maven,postgres,mysql,postman,angular,dart,flutter,nodejs,js,ts,html,css,vscode,idea,git,github,bash&perline=23" />
