@@ -17,50 +17,11 @@ In parallel, I develop automations using n8n and Docker, creating workflows that
 
 ---
 
-<h4>Languages and Tools</h4>
-<div align="left" style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=java" height="28" alt="java logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="spring logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="mysql logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postman" height="28" alt="postman logo" />
-  <img width="4" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="28" alt="angularjs logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="28" alt="dart logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="flutter logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="intellij logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="28" alt="gitlab logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ai" height="28" alt="adobeillustrator logo" />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="figma logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="28" alt="sketch logo" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,py,spring,docker,figma,ai,maven,postgres,mysql,postman,angular,dart,flutter,nodejs,js,ts,html,css,vscode,idea,git,github,bash&perline=23" />
+</a>
+</p>
 
 ---
 
