@@ -25,11 +25,4 @@ In parallel, I develop automations using n8n and Docker, creating workflows that
 
 ---
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafavfa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafavfa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=000000&section=footer" alt="bottom"/>
