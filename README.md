@@ -9,12 +9,11 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:FFF)](mailto:havook93@gmail.com)
 </div>
 
+*Fullstack Software Developer focused on Java, Spring Boot, SQL, and Docker, combined with solid experience in UI/UX Design. My background in Product Design and my history as a graphic designer enhance my ability to create clear, intuitive, and user-centered solutions.*
 
-***Fullstack Software Developer focused on Java, Spring Boot, SQL, and Docker, combined with solid experience in UI/UX Design. My background in Product Design and my history as a graphic designer enhance my ability to create clear, intuitive, and user-centered solutions.***
+*I work on the development of a digital academic platform, performing the functions of Requirements Analyst and Screen Designer (UX/UI), conducting functional requirements gathering, flow modeling, prototyping, and creating efficient interfaces aligned with user needs and system architecture.*
 
-***I work on the development of a digital academic platform, performing the functions of Requirements Analyst and Screen Designer (UX/UI), conducting functional requirements gathering, flow modeling, prototyping, and creating efficient interfaces aligned with user needs and system architecture.***
-
-***In parallel, I develop automations using n8n and Docker, creating workflows that optimize routines, control rework, and increase operational scalability. I am driven by continuous learning and the integration between technology, design, and automation.***
+*In parallel, I develop automations using n8n and Docker, creating workflows that optimize routines, control rework, and increase operational scalability. I am driven by continuous learning and the integration between technology, design, and automation.*
 
 <h3 align="left">My Stack ~</h3>
 <p align="center">
@@ -23,9 +22,12 @@
 </a>
 </p>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  
-</div>
+***
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafavfa/rafavfa/refs/heads/main/paprika.gif" 
+       alt="paprika" 
+       width="700">
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
