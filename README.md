@@ -18,7 +18,7 @@
 <h3 align="left">My Stack ~</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,spring,docker,figma,ai,postgres,mysql,postman,angular,dart,flutter,nodejs,js,ts,html,css,vscode,idea,git,github,bash&perline=23" />
+<img src="https://skillicons.dev/icons?i=java,py,spring,docker,figma,ai,postgres,mysql,postman,angular,dart,flutter,js,ts,html,css,vscode,idea,git,github,bash&perline=23" />
 </a>
 </p>
 
