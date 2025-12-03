@@ -30,8 +30,8 @@
        width="600">
 </p>
 
-<p align="center">  
-𝙏𝙝𝙚 𝙒𝙤𝙧𝙡𝙙 𝙄𝙨 𝙉𝙤𝙩 𝙀𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙔𝙤𝙪 𝙎𝙚𝙚 < / >
-</p>
+<h6 align="center">  
+<𝙏𝙝𝙚 𝙒𝙤𝙧𝙡𝙙 𝙄𝙨 𝙉𝙤𝙩 𝙀𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙔𝙤𝙪 𝙎𝙚𝙚/>
+</h6>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" alt="bottom"/>
